@@ -1,24 +1,28 @@
-## E-Commerce Backend
+# E-Commerce Backend
 
-# Description
+## Description
 Backend e-commerce application using Express.js, Sequelize, and mySql. 
 
-# User Story
+## User Story
 ```md
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
 
-# Installation
+## Installation
 Clone GitHub repository
 Command line: npm install
 
-# Usage
+## Usage
 Command line: npm start
 
-#  Collaborators
+## Collaborators
 Special thanks to Sahar Kichi:
 https://github.com/saharkichi
 
-# Walkthrough Video
+## Walkthrough Video
+https://drive.google.com/file/d/1m06hXoijh8GZV5-Scu50-LtFyYXX9qnY/view
+
+
+
